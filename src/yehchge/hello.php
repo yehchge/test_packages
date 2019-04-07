@@ -1,6 +1,6 @@
 <?php
 
-namespace yehchge;
+namespace yehchge\caoxl\yehchge;
 
 class hello {
 
